@@ -61,10 +61,11 @@
     <Compile Include="Assets\MonsterMovement.cs" />
     <Compile Include="Assets\Pigman\test_scene\camera.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\Easy Primitive Animals\FarmEdition\Scripts\AnimalController.cs" />
     <Compile Include="Assets\Match 3 - Dark Monsters - Infinite Monster Builder\Scritps\OrderPrefabs.cs" />
     <Compile Include="Assets\Easy Primitive Animals\FarmEdition\Scripts\RotateStand.cs" />
-    <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\MonsterGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Knight Files\Read Me.txt" />
